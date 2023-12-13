@@ -7,4 +7,5 @@ numpy_stl==3.0.1
 scikit-image==0.22.0
 torch==2.1.1
 trimesh==3.23.5
+python-multipart==0.0.6
 uvicorn==0.24.0.post1
